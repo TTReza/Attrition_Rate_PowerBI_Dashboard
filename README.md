@@ -1,1 +1,2 @@
-# Attrition_Rate_PowerBI_Dashboard
+# A PowerBI Dashboard of Attrition Rate of a Company
+![Dashboard](dashboard.png)
